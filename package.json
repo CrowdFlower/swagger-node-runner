@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "async": "^2.6.3",
-    "bagpipes": "github:Crowdflower/bagpipes#TI-1675-resolve-vulnerabilities",
+    "bagpipes": "github:Crowdflower/bagpipes#v0.1.4",
     "body-parser": "^1.14.1",
     "config": "^1.16.0",
     "cors": "^2.5.3",
